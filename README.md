@@ -35,13 +35,6 @@ Explain how to run the automated tests for this system
 
 Testing with the dataset
  
- 
-## License
-
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
- 
 ## Acknowledgments
 
 - Grokking Deep Learning Book
